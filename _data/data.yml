@@ -1,29 +1,29 @@
-name: John Doe
+name: 廖  輝
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: manfreeliao@yahoo.com.tw
+  github: manfredliao
+  linkedin: --
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: mandarin
+  - idiom:
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: 運輸工程與管理
+    time: 1980-1984
+    university: 國立交通大學
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: 
+    time: 
+    university: 
 
 skills:
   - category: Backend
@@ -41,35 +41,28 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  任職於公營事業機關資訊部門逾23年，從基層程式設計員歷練至副處長，
+  有豐富的資訊管理、數位轉型及資安治理的經驗。
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Deputy Director, IT Department. 數位發展處副處長 
+    time: Oct.2017-Jun.2024
+    company: TRA
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      負責督導IT基礎設施、應用系統發展及資通安全推動，確保IT與OT系統穩定、
+      可靠，本人最重要的工作是推動資訊系統優化及數位轉型，
+      特別是第4代票務系統及車輛維修管理系統，有效率地支援超過1萬6千位同仁，
+      平均每日運行1,100列次火車，並服務75萬以上之旅客。
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Chief / System Analyst 資訊中心組長、系統分析師
+    time: Sep.2009-Oct.2017
+    company: TRA
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      持續推動 ISO 27001 ISMS 國際標準，導入至全機關各部門、各場域，包括58個分支機構、207個車站。同時擴充驗證範圍納入中央行車控制(CTC)系統、票務系統、資訊中心主要及備援機房，並且成功取得認證。
+      遵循國家資通安全法，原服務事業機關(臺鐵公司)為資通安全責任等級分級辦法規範之「A級機關」，本人負責制定、審查資安管理政策、程序及表單，辦理資安事件通報及應變、內部稽核及其他應辦事項，包含源碼掃描、資安健診、滲透測試及社交工程演練等。
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
@@ -85,7 +78,7 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: eTicketing reengineering Project 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
